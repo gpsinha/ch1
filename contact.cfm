@@ -7,7 +7,7 @@
 	<meta name="keywords" content="jquery, Responsive Vcard, Template, Vcard, Clean Slide" />
 	<meta http-equiv="X-UA-Compatible" content="IE=9" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
-	<title>This is my WebSite</title>
+	<title>This is our WebSite</title>
 	
 	<!-- Loading Google Web fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css' />
